@@ -1,1 +1,1 @@
-https://gist.githubusercontent.com/nonNamedUser/7a176bb01015b5d92f26460ded077a1e/raw/3b4acad1a2e4c9b9c6f8fab38a92505d1be0d9f4/RGB.luau
+https://gist.githubusercontent.com/nonNamedUser/7a176bb01015b5d92f26460ded077a1e/raw/9aa77254c859128c8d02df0e0a69d87108252756/RGB.luau
